@@ -51,15 +51,12 @@
 
 ---
 
-## 📊 Selected Projects
-- **DeepSurv & DeepHit Robustness Study**  
-  Large-scale simulation framework (100+ replications, multi-factor design)
+### 📂 Selected Projects
+- **Deep Survival Models** – DeepSurv, DeepHit, and Transformer implementations  
+- **Survival Simulation Framework** – Flexible data generation under censoring and misspecification  
+- **Conformal Prediction for Survival** – Distribution-free uncertainty bands  
 
-- **Transformer Models for Competing Risks**  
-  Custom loss functions and label transforms in PyTorch
-
-- **Multivariate Meta-Analysis of Hazard Ratios**  
-  REML / ML estimation of variance–covariance components
+📄 R packages on CRAN: `bcfrailph`, `bcfrailphdv`
 
 ---
 
