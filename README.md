@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Mesfin Haileyesus 👋
 
-<!--
-**mesfin-haileyesus/mesfin-haileyesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Candidate in Statistics  
+📍 University of Maryland, Baltimore County (UMBC)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Survival Analysis & Time-to-Event Modeling
+- Deep Learning for Survival Data (DeepSurv, DeepHit, Transformers)
+- Competing Risks Models
+- Conformal Prediction for Survival Functions
+- Robustness under Model Misspecification
+- Heavily Tied Event Times & Baseline Hazard Estimation
+
+---
+
+## 🧠 Current Research
+- **DeepSurv under Tied Events**  
+  Studying the impact of ties on performance and cumulative baseline hazard estimation  
+  (Breslow vs. Efron-type approaches)
+
+- **Conformal Prediction for Survival Analysis**  
+  Developing distribution-free prediction bands for:
+  - Event times
+  - Survival functions
+  - Binary event indicators \(Y(t)\)
+
+- **Simulation-Based Robustness Studies**  
+  Evaluating deep survival models under:
+  - Dependent & independent censoring
+  - Non-proportional hazards
+  - Frailty and omitted-variable misspecification
+
+---
+
+## 🛠️ Technical Skills
+**Languages**
+- Python, R, LaTeX
+
+**Libraries & Frameworks**
+- PyTorch, pycox, scikit-survival
+- lifelines, survival, flexsurv
+- NumPy, pandas, SciPy
+
+**Methods**
+- Cox PH, Competing Risks
+- DeepSurv, DeepHit, Transformer-based survival models
+- C-index, IBS, time-dependent AUC
+- Conformal Prediction (split, weighted, IPCW)
+
+---
+
+## 📊 Selected Projects
+- **DeepSurv & DeepHit Robustness Study**  
+  Large-scale simulation framework (100+ replications, multi-factor design)
+
+- **Transformer Models for Competing Risks**  
+  Custom loss functions and label transforms in PyTorch
+
+- **Multivariate Meta-Analysis of Hazard Ratios**  
+  REML / ML estimation of variance–covariance components
+
+---
+
+## 📂 Repositories You’ll Find Here
+- `deepsurv-tied-events`
+- `deephit-competing-risks`
+- `conformal-survival-bands`
+- `survival-simulation-framework`
+- `meta-analysis-hr`
+
+---
+
+## 📫 Contact
+- 📧 Email: *mesfinh1@umbc.edu*
+- 🔗 LinkedIn: *www.linkedin.com/in/mesfin-haileyesus-768310337*
+
+---
+
+⭐ *Always happy to collaborate on survival analysis, deep learning, and statistical methodology.*
+
