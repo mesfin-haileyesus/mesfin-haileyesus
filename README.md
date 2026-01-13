@@ -56,7 +56,7 @@
 - **Survival Simulation Framework** – Flexible data generation under censoring and misspecification  
 - **Conformal Prediction for Survival** – Distribution-free uncertainty bands  
 
-📄 R packages on CRAN: `bcfrailph` *https://github.com/cran/bcfrailph*
+📄 R packages on CRAN: `bcfrailph`, `bcfrailphdv`
 
 ---
 
